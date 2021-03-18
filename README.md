@@ -1,11 +1,9 @@
 # SSR-smoothing-corrections
-R Code for the article "Smoothing corrections for improving sample size recalculation rules in adaptive group sequential study designs" by Carolin Herrmann and Geraldine Rauch.
-
-
+R Code for the article "Smoothing corrections for improving sample size recalculation rules in adaptive group sequential study designs" by Carolin Herrmann and Geraldine Rauch (doi: 10.1055/s-0040-1721727).
 
 * **What the project does**: \
 This is the R code used for the simulations in the manuscript "Smoothing corrections for improving sample size recalculation rules in adaptive group sequential 
-study desings" by Carolin Herrmann and Geraldine Rauch.
+study desings" (doi: 10.1055/s-0040-1721727).
 
 * **Why the project is useful**: \
 In the above mentioned article, smoothing corrections are presented as one possible option to counteract shortcomings of sample size recalculation rules 
@@ -17,7 +15,7 @@ Download all the uploaded R-files and open "Main.R" where you can specify the pa
 
 * **Where users can get help with your project**: \
 Background knowledge on the implemented theory can be found in "Smoothing corrections for improving sample size recalculation rules in adaptive group
-sequential study designs" by Carolin Herrmann and Geraldine Rauch.
+sequential study designs" (doi: 10.1055/s-0040-1721727).
 
 * **Who maintains and contributes to the project**: \
 The code was written by Carolin Herrmann and Geraldine Rauch.
